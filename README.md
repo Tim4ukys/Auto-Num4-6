@@ -5,5 +5,4 @@
 Donwload - https://gitlab.com/petrov_team/gta-roleplay/auto-num4-6/-/raw/master/src/autonum46.lua?inline=false
 
 # Авторы:
-Tim4ukys, специально только для своей группы Petrov Team. 
-vk.com/petrov_team
+Tim4ukys, специально только для своей группы [Petrov Team](vk.com/petrov_team)
