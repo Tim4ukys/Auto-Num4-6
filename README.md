@@ -6,3 +6,5 @@ Donwload - https://gitlab.com/petrov_team/gta-roleplay/auto-num4-6/-/raw/master/
 
 # Авторы:
 Tim4ukys, специально только для своей группы [Petrov Team](https://vk.com/petrov_team)
+
+_(c) Petrov Team, 2020_
