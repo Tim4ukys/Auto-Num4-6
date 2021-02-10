@@ -1,10 +1,3 @@
-script_name 'Auto num 6 num 4'
-script_author("Tim4ukys")
-script_description("Авто нажатие на num4 и num6")
-script_url("https://vk.com/petrov_team")
-script_version_number(03122020)
-script_version('1.00')
-
 local memory = require 'memory'
 
 function main()
