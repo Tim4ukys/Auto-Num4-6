@@ -19,14 +19,6 @@ function main()
             goKeyPressed(102) 
             printStringNow('Num 6', 2000)
         end
-
-        -- if num_rub_state == 52 then 
-        --     goKeyPressed(100)
-        --     printStringNow('Num 4', 2000)
-        -- elseif num_rub_state == 54 then 
-        --     goKeyPressed(102) 
-        --     printStringNow('Num 6', 2000)
-        -- end
         wait(500)
 	end
 end
